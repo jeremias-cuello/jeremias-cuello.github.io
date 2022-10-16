@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola 👋
+Mi nombre es Jeremias
+Estudiante de Tecnicatura en Informatica Profesional y Personal.
+Integrante de <a href="https://github.com/Proyecto7mo/COTEUS"> COTEUS </a> y de otras oroganizaciones más.
 
 <!--
 **Jeremias0901/Jeremias0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
