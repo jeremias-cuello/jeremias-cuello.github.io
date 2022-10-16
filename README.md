@@ -1,6 +1,6 @@
 ### Hola 👋
-Mi nombre es Jeremias
-Estudiante de Tecnicatura en Informatica Profesional y Personal.
+Mi nombre es Jeremias <br>
+Estudiante de Tecnicatura en Informatica Profesional y Personal. <br>
 Integrante de <a href="https://github.com/Proyecto7mo/COTEUS"> COTEUS </a> y de otras oroganizaciones más.
 
 <!--
