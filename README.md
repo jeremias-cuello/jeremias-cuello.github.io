@@ -12,9 +12,8 @@ Soy Técnico en Informática Profesional y Personal
 
 [![Certificado Platzi](certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 <!-- - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3 -->
-<div>
-    
-</div>### Tecnicatura | Proyectos y Actividades
+
+### Tecnicatura | Proyectos y Actividades
 
 A lo largo de la tecnicatura realice proyectos, actividades y trabajos prácticos para la acreditación de las materias.
 
