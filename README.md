@@ -1,6 +1,4 @@
-# Hola 👋
-
-## Mi nombre es Jeremias
+# Hola 👋, mi nombre es Jeremias
 
 Soy Técnico en Informática Profesional y Personal
 
