@@ -12,8 +12,9 @@ Soy Técnico en Informática Profesional y Personal
 
 [![Certificado Platzi](certificados/git-github.jpeg)](https://platzi.com/p/cuellojeremiasnatanael/curso/1557-git-github/diploma/detalle/)
 <!-- - ⚡ Dato curioso: Resuelvo cubos de Rubik 3x3 -->
-
-### Tecnicatura | Proyectos y Actividades
+<div>
+    
+</div>### Tecnicatura | Proyectos y Actividades
 
 A lo largo de la tecnicatura realice proyectos, actividades y trabajos prácticos para la acreditación de las materias.
 
@@ -25,9 +26,10 @@ Estos son algunos:
 
 ### Lenguajes y Herramientas con los que trabajé
 
+<div>
 <!-- Backend -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>    
 
 <!-- SQL -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
@@ -39,14 +41,14 @@ Estos son algunos:
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 
 <!-- Sistemas de control de Versiones -->
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>    
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 
 <!-- Frameworks, IDEs y Editores de Texto -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
 
-<!-- Lenguajes de bajo nivel -->
+<!-- Lenguajes t Herramientas de bajo nivel -->
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" fill="red"/>
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain-wordmark.svg"/>
 
@@ -56,3 +58,4 @@ Estos son algunos:
 ### Aprendiendo
 
 <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+</div>
