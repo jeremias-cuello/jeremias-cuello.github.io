@@ -1,0 +1,97 @@
+*{
+    word-wrap: break-word; overflow-wrap: break-word; white-space: normal;
+}
+
+.link-portafolio {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -40px;
+}
+
+.sec-portafolio {
+    display: flex;
+    justify-content: center;
+
+    background-image: url(../imgs/portfolio.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: blur(2px);
+    height: 350px;
+    margin-bottom: 80px;
+}
+
+.shadow-title {
+    background-color: black;
+    border-radius: 50px;
+    height: 120px;
+    width: 470px;
+    filter: blur(10px);
+}
+
+
+.shadow-title__text {
+    position: absolute;
+    width: max-content;
+    height: max-content;
+
+    font-size: 5pc;
+    color: rgb(238, 238, 238);
+    text-shadow: 0px 0px 100px rgb(15, 15, 15);
+}
+
+.sec-portafolio__link {
+    position: relative;
+    top: -200px;
+    left: 20px;
+    width: max-content;
+    height: min-content;
+}
+
+.sec-portafolio__link :hover {
+    color: rgb(5, 5, 5);
+    text-shadow: 0px 0px 30px rgb(109, 136, 255);
+    /* text-decoration: none; */
+    transition: all .5s;
+}
+
+.sec-portafolio__link :not(hover) {
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px black;
+    transition: all .5s;
+}
+
+#portafolio__link {
+    display: none;
+}
+
+@media (max-width: 600px){
+    .shadow-title__text {
+        font-size: 3pc;
+    }
+
+    .shadow-title {
+        height: 150px;
+        width: 320px;
+    }
+}
+
+@media (max-width: 370px){
+    .sec-portafolio, .sec-portafolio__link {
+        display: none;
+    }
+
+    #portafolio__link{
+        display: block;
+    }
+
+    .link-text{
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 260px){
+    .link-text{
+        font-size: 15px;
+    }
+}
